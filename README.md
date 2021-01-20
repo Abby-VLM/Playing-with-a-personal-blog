@@ -4,5 +4,7 @@ GA Dash Project 2
 <br />
 A tweaked version of dash project 2's "Jeffs blog" 
 <br />
-still a word in progress.
+Made using HTML and CSS. 
+<br />
+Still a work in progress.
 I plan to combine the webpage from project 1 into this personal website 
